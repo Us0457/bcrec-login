@@ -6,3 +6,5 @@ But if you want to take a look at this then download it from this repository and
 2. Student Password - "123456"
 3. Admin User ID - "0000"
 4. Admin Password - "987654"
+
+Visit to Student > Library > IEE > IEE > 5th SEM.
